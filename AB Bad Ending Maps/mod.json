@@ -9,7 +9,7 @@
 	"depends" :
 	[
 		"asphalt-terrain",
-		"ab bad ending assets",
+		"ab-bad-ending-assets",
 		"forge2k"
 	],
 	"changelog" :
