@@ -4,7 +4,7 @@
 	
 	"author" : "Andruids, avatar (misiokles)",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.1",
+	"version" : "1.2",
 	"modType" : "Expansion",	
 	"depends" :
 	[
@@ -14,12 +14,13 @@
 	],
 	"changelog" :
 	{
+		"1.2"   : [ "Update to vcmi-1.3 format" ],
 		"1.1"   : [ "Update to vcmi-1.2 format" ],
 		"1.0"   : [ "Initial release" ]
 	},	
 	"compatibility" :
 	{
-		"min" : "1.2.0"
+		"min" : "1.3.0"
 	},	
 	"conflicts" :
 	[],
