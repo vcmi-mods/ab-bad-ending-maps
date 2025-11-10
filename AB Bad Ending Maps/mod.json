@@ -1,13 +1,12 @@
 {
 	"name" : "Antagarich Burning - maps",
 	"description" : "A series of maps telling the story of the rise of Kastore's Heavenly Forge empire and its conquests.",
-	
+
 	"author" : "Andruids, avatar (misiokles)",
 	"contact" : "madaosoul@gmail.com",
 	"version" : "1.6",
-	"modType" : "Expansion",	
-	"depends" :
-	[
+	"modType" : "Expansion",
+	"depends" : [
 		"asphalt-terrain",
 		"ab-bad-ending-assets",
 		"forge2k"
@@ -26,24 +25,18 @@
 	"compatibility" :
 	{
 		"min" : "1.7.0"
-	},	
-	"conflicts" :
-	[
+	},
+	"conflicts" : [
 		"newtown-terrains",
 		"wake-of-gods",
-		"hota"],
-	
-	"creatures" :
-	[],
-	
-    "objects" :
-    [],
-	
-	"spells" :
-	[],
-	
-	"artifacts" :
-	[]
+		"hota"
+	],
 
+	"creatures" : [],
 
+	"objects" : [],
+
+	"spells" : [],
+
+	"artifacts" : []
 }
