@@ -14,7 +14,7 @@
 	],
 	"changelog" :
 	{
-		"1.6"   : [ "Update for recent Apshplat terrain changes" ],
+		"1.6"   : [ "Update for recent Asphalt terrain changes" ],
 		"1.5"   : [ "Update to vcmi-1.6 format; Polish translation" ],
 		"1.4.1"   : [ "Buffing Gelu" ],
 		"1.4"   : [ "Defined conflicting mods and fixed spells not appearing in Mage Guilds" ],
